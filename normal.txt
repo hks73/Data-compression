@@ -1,0 +1,49 @@
+Description:
+The project of “Anti Theft Home Security System” has been designed in order to tackle the increase in robbery
+cases in houses and offices. This system with the help of Ardiuno , sensors, magnetic switch
+(reed switch) transmitter and receiver can form elements to protect our houses from the astute minds of thieves. The user
+will be carrying the receiving module, whenever he/she steps out of the house.  
+This module will encompass receiver, microcontroller, LCD and a buzzer. The transmitting module will be
+equipped with sensors, reed switch, microcontroller and transmitter. There is constant monitoring between the transmitter
+and receiver and as soon as some moment is detected by the sensors or reed switch, immediately the buzzer will go ON and
+the user will come to know about the activity through LCD.  
+The user needs to cut off the battery whenever he/she accesses the doors and windows as it can trigger the buzzer,
+which is not necessary at that moment. This system can also be successfully brought into implementation at places like
+offices, shopping malls (for protection of products kept on display), ATM’s etc. 
+The passive infrared sensors are placed near such things. As soon as there is some movement in its vicinity, the
+sensor detects it and sends the signal to the user through transmitter. Also the reed switch is placed near windows and
+doors. The moment the door or a window is opened, the contact of reed switch with it is broken and the user comes to
+know about it. The buzzer goes on whenever there is a threat, which signifies that the user has to check the LCD which
+displays the things under danger.  
+
+List of Hardware: 
+- Passive infra red module  
+- Pressure sensor 
+- Ardiuno 
+- LCD    
+- LED  
+- BUZZER
+
+Hardware Description:
+
+1.Passive Infra Red Module : 
+PIR sensors are small, inexpensive, low power, rugged, have a wide lens range, are easy to interface with, and are
+easy to use. A passive infrared (PIR) sensor measures infrared light emitted from objects that generate heat, and therefore
+infrared radiation, in its field of view. PIR sensors have a range of approximately 6 meters, depending on conditions. The
+sensor adjusts to slowly changing conditions that occur normally within the environment, but shows a high-output response
+when a sudden change takes place.  
+
+2.Wireless Door/Window Contact Sensor :
+The Wireless Magnetic Door / Window Contact Sensor is a protective device that can send notification when the
+opening and closure of doors and windows occurs. It is designed to send a wireless signal to a compatible home security
+system when the contact between the transmitter and corresponding magnetic sensor is broken. 
+
+3.Buzzer : 
+It produces sound whenever theifs try to enter the home and these sounds are commonly used to indicate tha a robbery is 
+taking place by a click, a ring or a beep. 
+
+4.Led :
+Led's are used to indicate that a robbery is taking place by lighting them. 
+
+5.Lcd :
+MAin function of Lcd is to display all the activities taking place during the act of theft.
